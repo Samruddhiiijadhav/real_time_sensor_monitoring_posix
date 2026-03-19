@@ -1,5 +1,4 @@
-## Project Title
-Real-Time Multi-Process Sensor Monitoring System using POSIX APIs
+# Real-Time Multi-Process Sensor Monitoring System using POSIX APIs
 
 ## Overview
 This project simulates a real-time sensor monitoring system using Linux system programming concepts. Multiple sensor processes generate data, and a controller process collects, processes, displays, and logs the data.
